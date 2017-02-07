@@ -7,3 +7,11 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
+### Day 2: FEB/8/2017
+
+**Today's Progress**: Added pages in the project/solution
+
+**Thoughts:** Bootstrap seems to be not working on this project or not working properly
+
+**Link to work:** N/A
