@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="_100DaysOfCode.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contact.aspx.cs" Inherits="_100DaysOfCode.Pages.contact" %>
 
 <!DOCTYPE html>
 
@@ -15,27 +15,23 @@
 <body>
     <form id="form1" runat="server">
     <%-- Start of Navigation --%>
-    <nav id="navMain" class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
+    <nav id="navMain" class="navbar navbar-inverse">
+        <div class="container-fluid">
             <div class="navbar-header">
                 <a class="navbar-brand" href="../index.aspx">My Website</a>
             </div>
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#home">Home</a></li>
+                <li><a href="../Pages/index.aspx">Home</a></li>
                 <li><a href="../Pages/about.aspx">About</a></li>
                 <li><a href="../Pages/projects.aspx">Projects</a></li>
-                <li><a href="#blog">Blog</a></li>
-                <li><a href="../Pages/contact.aspx">Contact</a></li>
+                <li class="active"><a href="#contact">Contact</a></li>
             </ul>
         </div>
     </nav>
     <%-- End of Navigation --%>
-    <div class="jumbotron">
-        <div class="container">
-            <%--<h1>This is a lousy introduction. Come back when it is finished. Have a great day!</h1>--%>
-            <h1>Hello World</h1>
-            <p>This is a lousy introduction. Come back when it is finished. Have a great day!</p>
-        </div>
+    <div class="container-fluid">
+        <a name="home"></a>
+        <div class="jumbotron"><h1>contact me at neapante@gmail.com</h1></div>
     </div>
     </form>
 </body>
