@@ -15,3 +15,11 @@
 **Thoughts:** Bootstrap seems to be not working on this project or not working properly
 
 **Link to work:** N/A
+
+### Day 3: FEB/9/2017
+
+**Today's Progress**: Added button links in portfolio and fixed css caching when building the project
+
+**Thoughts:** add ?version=1 to fix css caching
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
