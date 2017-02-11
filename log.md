@@ -31,3 +31,11 @@
 **Thoughts:** progressing slowly
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 5: FEB/12/2017
+
+**Today's Progress**: Added buttons below for navigation
+
+**Thoughts:** still on front end design
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
