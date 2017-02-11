@@ -23,3 +23,11 @@
 **Thoughts:** add ?version=1 to fix css caching
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 4: FEB/11/2017
+
+**Today's Progress**: Modified Intro color, added info below
+
+**Thoughts:** progressing slowly
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
