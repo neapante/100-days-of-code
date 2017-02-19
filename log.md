@@ -39,3 +39,11 @@
 **Thoughts:** still on front end design
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 6-8 : FEB/17-19/2017
+
+**Today's Progress**: fixing blog page design
+
+**Thoughts:** learning more about css by designing the blog page
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
