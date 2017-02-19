@@ -47,3 +47,11 @@
 **Thoughts:** learning more about css by designing the blog page
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 9: FEB/20/2017
+
+**Today's Progress**: completed blog design
+
+**Thoughts:** weird problem. CSS works in IE but not in chrome.
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
