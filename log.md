@@ -55,3 +55,12 @@
 **Thoughts:** weird problem. CSS works in IE but not in chrome.
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 10-11: FEB/24 and 26/2017
+
+**Today's Progress**: started on designing Projects page of portfolio
+
+**Thoughts:** scrollbar on chrome adds width and not in IE. Weird IE quirks.
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
