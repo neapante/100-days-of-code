@@ -71,3 +71,11 @@
 **Thoughts:** **Today's Progress**
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
+
+### Day 13: Feb 28, 2017
+
+**Today's Progress**: finalized fonts and added paddings for spacing and readability.
+
+**Thoughts:** don't be afraid of css
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
