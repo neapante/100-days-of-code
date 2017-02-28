@@ -64,3 +64,10 @@
 
 **Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
 
+### Day 12: Feb 27, 2017
+
+**Today's Progress**: configured font and color of the projects page. having some hard time on some fonts that has a large space above and below which blocks some elements.
+
+**Thoughts:** **Today's Progress**
+
+**Link to work:** https://github.com/neapante/100-Days-Of-Code-Projects
